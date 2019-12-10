@@ -1,0 +1,1 @@
+web gunicorn --workers 6 run:app.server
